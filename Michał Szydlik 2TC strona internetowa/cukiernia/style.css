@@ -1,0 +1,58 @@
+input 
+{
+    width: 50%;
+	vertical-align: text-top;
+}
+
+body
+
+{
+	font-size:20px;
+	text-align:center;
+	
+}
+
+#b1
+{
+	color:red;
+}
+
+.all
+{
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	width:20%;
+	float:left;
+	
+}
+
+.bl
+{
+	border-left:1px solid black;
+}
+
+#everything
+{
+
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+}
+
+#krem , #pacz , #sumatext
+{
+	text-align:left;
+	
+}
+
+#check
+{
+	width:40%;
+	float:left;
+}
+
+div
+{
+	min-height:25px;
+}
